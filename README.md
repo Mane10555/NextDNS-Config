@@ -120,11 +120,7 @@ We recommend you **remove** the [NextDNS Ads & Trackers Blocklist](https://githu
 
 A great question to ask is: "How much do I want to deal with the inconveniences of [false positives](https://csrc.nist.gov/glossary/term/false_positive)?"
 
-Here are the suggested blocklists, based on past issues and observations:
-
-|     **Blocklists**   |                              **Rationale**                                             |
-|:--------------------:|:--------------------------------------------------------------------------------------:|
-| HaGeZi - <br>Multi **NORMAL**<sup>[1](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#multi)</sup> <br>+ <br>OISD<sup>[2](https://www.reddit.com/r/nextdns/comments/1ia9bz0/comment/mdy61v9/)</sup> | Block tracker, ad, and badware requests without issues ([set-and-forget](https://glosbe.com/en/en/set-and-forget)). |
+Here are the suggested blocklists, based on past issues and observations: Block tracker, ad, and badware requests without issues ([set-and-forget](https://glosbe.com/en/en/set-and-forget)). |
 | HaGeZi - <br>Multi **PRO**<sup>[3](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#pro)</sup> | Block more requests, usually without issues (recommended). |
 | HaGeZi - <br>Multi **PRO++**<sup>[4](https://github.com/hagezi/dns-blocklists/blob/main/statistics.md#proplus)</sup> | Block more requests at the risk of site breakage. <br> [Report](https://github.com/hagezi/dns-blocklists/issues/new/choose) occasional site and app issues. |
 
